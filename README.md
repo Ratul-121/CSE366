@@ -1,2 +1,3 @@
 # CSE366
-Update first chang
+Update first change
+It was smooth
